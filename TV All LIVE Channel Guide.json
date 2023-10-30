@@ -15,9 +15,9 @@
 "LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=devname",
 
 // main ads ke backup ads 
-"MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : false,
-"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
+"MODE_BACKUP_ADS" : false,
+"MODE_NO_ADS" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : true,
 
 //     mode pengaturan iklan
 //     Mode ADMOB       Admob backup Unity Backup Startapp
@@ -25,9 +25,9 @@
 //     Mode UNITY       Unity backup Startapp
 //     Mode APPLOVIN    Applovin backup Unity Backup Startapp
 
-"PENGATURAN_IKLAN_BANNER" : "ADMOB",
-"PENGATURAN_IKLAN_INTER" : "ADMOB",
-"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
+"PENGATURAN_IKLAN_BANNER" : "0",
+"PENGATURAN_IKLAN_INTER" : "0",
+"PENGATURAN_IKLAN_NATIVE" : "0",
 
 "INTER_COUNT" : "20",
 
@@ -41,9 +41,9 @@
 
 "STARTAPPID" : "201365479",
 
-"ADMOB_BANNER" : "ca-app-pub-2732470941956891/6775734327",
-"ADMOB_INTER" : "ca-app-pub-2732470941956891/5733297159",
-"ADMOB_NATIV" : "ca-app-pub-2732470941956891/4420215484",
+"ADMOB_BANNER" : "ca-app-pub",
+"ADMOB_INTER" : "ca-app-pub",
+"ADMOB_NATIV" : "ca-app-pub",
 
 "HPK_ALIENDROID" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
@@ -52,9 +52,9 @@
 "HPK_ADMOB4" : "Telkomsel",
 "HPK_ADMOB5" : "Donasi",
 
-"FAN_BANNER" : "1539018466502118_1539024116501553",
-"FAN_INTER" : "1539018466502118_1539024236501541",
-"FAN_NATIVE" : "1539018466502118_1539024333168198",
+"FAN_BANNER" : "",
+"FAN_INTER" : "",
+"FAN_NATIVE" : "",
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "inter",
